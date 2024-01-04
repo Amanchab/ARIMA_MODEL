@@ -1,1 +1,1 @@
-# Credit_risk_analysis_using_ARIMA
+ARIMA MODEL
